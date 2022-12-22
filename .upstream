@@ -1,0 +1,5 @@
+{
+    "name": "calyx",
+    "fetch": "https://gitlab.com/CalyxOS/platform_frameworks_opt_calendar",
+    "revision": "android13"
+}
